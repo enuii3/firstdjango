@@ -1,6 +1,9 @@
 # firstdjango
 
-チュートリアル
+heroku:
+https://first-step-django.herokuapp.com/
+
+Djangoチュートリアル
 https://docs.djangoproject.com/ja/3.1/intro/tutorial01/
 
 herokuにデプロイ時のエラーについて
